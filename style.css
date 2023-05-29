@@ -13,7 +13,7 @@
   }  
   body{
        color: #fff;
-       /*lbackground: inear-gradient(102.32deg, #030422 -2.74%, #090114 101.6%);*/
+       /*background: inear-gradient(102.32deg, #030422 -2.74%, #090114 101.6%);*/
        background: linear-gradient(167.96deg, #8257e5 0%, #271a45 100%) no-repeat fixed; 
        font-family: 'Source Sans Pro', sans-serif;
         width: 100%;
